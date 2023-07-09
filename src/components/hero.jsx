@@ -9,7 +9,7 @@ export default function Hero() {
         <button
           type="button"
           className="black_btn"
-          onClick={() => window.open()}
+          onClick={() => window.open("https://github.com/SubhasishKabi/ArticleSummarizer")}
         >
           GitHub
         </button>
